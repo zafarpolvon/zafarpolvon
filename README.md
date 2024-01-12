@@ -2,7 +2,6 @@
 
 ![Hello](https://github.com/zafarpolvon/zafarpolvon/raw/main/assets/hello.gif)
 
-## 👋 Hello, I'm Zafar
 
 A passionate frontend developer based at [IT-Med](https://www.linkedin.com/company/itmed-uz/mycompany/). My journey in web development revolves around crafting seamless user experiences and turning design concepts into interactive, responsive web applications.
 
