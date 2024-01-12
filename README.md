@@ -1,6 +1,6 @@
 <div align="center">
 [![Hello World, I'm Zafar!](assets/hello.gif)](https://github.com/zafarpolvon)
-</div>
+
 
 - 👋 Hello, I'm Zafar, a passionate frontend developer based at [IT-Med](https://www.linkedin.com/company/itmed-uz/mycompany/). Currently, My journey in web development revolves around crafting seamless user experiences and turning design concepts into interactive, responsive web applications.
 - 🚀 My expertise extends to the latest web technologies, including HTML, CSS, and JavaScript. I have a deep understanding of the Vue.js ecosystem, having worked extensively with Vue to create scalable and performant applications. Additionally, I bring proficiency in React, applying its powerful components and state management to deliver dynamic and interactive web solutions.
