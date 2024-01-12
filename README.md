@@ -1,5 +1,5 @@
 <div align="center">
-[![Hello World, I'm Zafar!](assets/Free_Universe_Stars_Video_Gif_Animated_Zoom_Virtual_Background_1.giff)](https://github.com/zafarpolvon)
+[![Hello World, I'm Zafar!](assets/Free_Universe_Stars_Video_Gif_Animated_Zoom_Virtual_Background_1.gif)](https://github.com/zafarpolvon)
 </div>
 
 - 👋 Hello, I'm Zafar, a passionate frontend developer based at [IT-Med](https://www.linkedin.com/company/itmed-uz/mycompany/). Currently, My journey in web development revolves around crafting seamless user experiences and turning design concepts into interactive, responsive web applications.
