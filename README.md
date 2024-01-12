@@ -1,5 +1,6 @@
 <div align="center">
 [![Hello World, I'm Zafar!](assets/hello.gif)](https://github.com/zafarpolvon)
+Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on [Pinterest](https://www.pinterest.com/).
 
 
 - 👋 Hello, I'm Zafar, a passionate frontend developer based at [IT-Med](https://www.linkedin.com/company/itmed-uz/mycompany/). Currently, My journey in web development revolves around crafting seamless user experiences and turning design concepts into interactive, responsive web applications.
