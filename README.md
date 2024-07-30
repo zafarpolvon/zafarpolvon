@@ -17,6 +17,5 @@ A passionate frontend developer based at [Uzinfocom](https://www.linkedin.com/co
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nuxtjs)](https://skillicons.dev)
 
-## 🏆 My Stats
 
 </div>
