@@ -5,17 +5,26 @@
 
 A passionate frontend developer based at [Uzinfocom](https://www.linkedin.com/company/uzinfocom/mycompany/). My journey in web development revolves around crafting seamless user experiences and turning design concepts into interactive, responsive web applications.
 
-🚀 My expertise extends to the latest web technologies, including HTML, CSS, and JavaScript. I have a deep understanding of the Vue.js ecosystem, having worked extensively with Vue to create scalable and performant applications. Additionally, I bring proficiency in React, applying its powerful components and state management to deliver dynamic and interactive web solutions.
+🚀 I have a deep understanding of the Vue.js ecosystem, having worked extensively with Vue and Nuxt.js. Additionally, I am proficient in React and Next.js. In my free time, I'm learning Node.js to expand my development skills.
 
-⚡ Fun fact: Outside of coding, I'm a music enthusiast.
 
-## 💡 A Quote
+## Activity
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=przafar&theme=solarized_dark)
 
-[![A random quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ## 💻 My Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,nuxtjs)](https://skillicons.dev)
 
+## How to contact me
+
+✉️ email: przafar@mail.ru
+
+👷‍♂️ hh resume: [ https://hh.uz/resume/ebfae71fff09762c9c0039ed1f62504c523463)
+
+👷‍♂️ linkedin: [https://www.linkedin.com/in/artem-imenin-48aa31234/](https://www.linkedin.com/in/zafarbek-polvonboev-233b7a206/)
+
 
 </div>
+
+
