@@ -18,11 +18,9 @@ A passionate frontend developer based at [Uzinfocom](https://www.linkedin.com/co
 
 ## How to contact me
 
-✉️ email: przafar@mail.ru
+✉️ email: przafar@icloud.com
 
-👷‍♂️ hh resume: [ https://hh.uz/resume/ebfae71fff09762c9c0039ed1f62504c523463)
-
-👷‍♂️ linkedin: [https://www.linkedin.com/in/artem-imenin-48aa31234/](https://www.linkedin.com/in/zafarbek-polvonboev-233b7a206/)
+👷‍♂️ linkedin: [https://www.linkedin.com/in/zafarbek-polvonboev-233b7a206/](https://www.linkedin.com/in/zafarbek-polvonboev-233b7a206/)
 
 
 </div>
